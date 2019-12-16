@@ -1,3 +1,3 @@
-# CS-162_Programming_2
+# Oregon State University CS-162 Programming 2
 
-Intermediate programming at Oregon State University. The class uses c++ as it's programming language. 
+Intermediate programming spring term 2019 at OSU. The class uses c++ as it's programming language. 
